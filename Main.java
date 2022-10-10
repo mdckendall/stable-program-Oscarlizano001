@@ -37,4 +37,4 @@ System.out.println("Horse #"+(i+1)+" Name: "
 }
 	  }
   }
-}
+
