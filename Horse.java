@@ -1,4 +1,3 @@
-//Create the Horse class here.
 public class Horse{
 private String name ;
 private double weight ;
@@ -21,7 +20,5 @@ return this.weight;
 public boolean getisTame(){
 return this.isTame;
 }
-
-
 
 }
