@@ -14,11 +14,11 @@ this.isTame =isTame;
 public String getName(){
 return this.name;
 }
-public double getWeight{
+public double getWeight(){
 return this.weight;
 }
 public boolean getisTame(){
 return this.isTame;
 }
 
-}
+  }
