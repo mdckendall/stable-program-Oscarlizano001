@@ -20,7 +20,7 @@ class Main {
 				System.out.println("Enter true if the horse is tame or false if it is not.");
 				boolean t = scanner.nextBoolean();
 				h = new Horse(hn, w, t);
-				s.arrayList.add(h);
+				s.horseArrayList.add(h);
 			}//testing goodest 4
 			else{
 				break;
